@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
-programmmer grievance 1
+too much coding results in backpain
